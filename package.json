@@ -1,0 +1,19 @@
+{
+  "name": "msgway-tester",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "author": "Mohammad Zarif",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^20.11.20",
+    "messageway": "^1.1.2",
+    "prompts": "^2.4.2"
+  },
+  "devDependencies": {
+    "copy-paste": "^1.5.3"
+  }
+}
